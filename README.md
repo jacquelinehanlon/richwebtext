@@ -1,6 +1,8 @@
 # richwebtext
 Basic rich text editor webapp
 
+https://jacquelinehanlon.github.io/richwebtext/
+
 Vibe-coding/AI usage disclaimer
 
 Only HTML exports are working right now
